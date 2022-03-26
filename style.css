@@ -63,8 +63,9 @@
 
 
 /* services section css */
+
 .servicesText.card {
-    height: 280px;
+    height: 190px;
     cursor: pointer;
   }
 
@@ -107,6 +108,5 @@ padding-top: 3%;
 }
 /* footer styling */
 #footer {
-
     text-align: center;
 }
